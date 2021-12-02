@@ -1,0 +1,8 @@
+/*CSS for header*/
+.container-fluid .col-md-12{
+    padding: 0;
+}
+.container .main-1 .row-col-md-12-p{
+    color: grey;
+    font-size: 25px;
+}
