@@ -1,0 +1,12 @@
+.main-1 .carousel-inner .carousel-item h5{
+    color:white;
+}
+.main-1 .carousel-inner .carousel-item p{
+    color:white;
+}
+.container-fluid .col-md-12{
+    padding: 0;
+}
+.container-fluid .nav-item .nav-link:active{
+    color: blue;
+}
